@@ -1,0 +1,32 @@
+{
+	"Language": "pt",{
+	"Language": "pt",
+	"Owner": ["558487775972@c.us", "5521966940217@c.us", "556286200581@c.us", "595975520717@c.us"],
+	"DDI": "55",
+	"Prefix": "/",
+	"API_NoFlash": "1d2bde66a2cb46bcb16a45cad685e730",
+	"API_RemoveBG": "Q93EvNSgEUN8d4rrw2m2qPqe",
+	"API_WallHaven": "zEStORAPaUqzDPuaTj59Bs1USBsZXtdu",
+	"API_DeepAI": "e5cc3e3f-4cfa-4595-ae9a-fb2c6c5b0b4a",
+	"Max_Groups": "10",
+	"Min_Membros": "1",
+	"Sticker_Author": "Symeyzinho",
+	"Sticker_Pack": "Luazinha",
+	"User_Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"Wait_to_Play": "30",
+	"Anti_Flood": "10",
+	"Max_Download_Size": "16",
+	"Wait_to_Win": "60",
+	"API_TheMovieDB": "8uO0gUM8aNqYLs1OsTBQiXu0fEv",
+	"API_NASA": "J9YhgJEPuILDuAKgZdLwxDVdCnuJo0yNtNINdcdp",
+	"Max_XP_Earn": "50",
+	"Min_XP_Earn": "15",
+	"Iris_Coin": "10",
+	"Max_Steal": "3000",
+	"Acr_Host": "identify-eu-west-1.acrcloud.com",
+	"Acr_Access": "e09771909e2512d096d3988310d4ec35",
+	"Acr_Secret": "tGiQ1DupqhpFa1T1J5jgAhJ82ccaEISYTNmXtbp2",
+	"Max_Characters": "5000",
+	"XP_Difficulty": "5"
+}
+	
